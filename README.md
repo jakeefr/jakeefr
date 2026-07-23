@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jakeefr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="jakeefr's GitHub stats" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jakeefr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="jakeefr's GitHub stats" height="165" />
 <img src="https://streak-stats.demolab.com?user=jakeefr&theme=tokyonight&hide_border=true&background=00000000" alt="jakeefr's GitHub streak" height="165" />
 
 </div>
