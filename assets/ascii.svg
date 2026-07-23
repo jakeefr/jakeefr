@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="398" height="109" viewBox="0 0 398 109" role="img" aria-label="JAKEEFR">
+  <style>
+    text {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 14px;
+      fill: #7AA2F7;
+      white-space: pre;
+    }
+    .l {
+      opacity: 0;
+      transform: translateY(6px);
+      animation: slidein 0.5s ease-out forwards;
+    }
+    @keyframes slidein {
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .art {
+      animation: pulse 5s ease-in-out 1.4s infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.72; }
+    }
+  </style>
+  <g class="art">
+    <text class="l" style="animation-delay:0ms" x="10" y="24" xml:space="preserve">       _____    __ __ ______________________</text>
+    <text class="l" style="animation-delay:120ms" x="10" y="41" xml:space="preserve">      / /   |  / //_// ____/ ____/ ____/ __ \</text>
+    <text class="l" style="animation-delay:240ms" x="10" y="58" xml:space="preserve"> __  / / /| | / ,&lt;  / __/ / __/ / /_  / /_/ /</text>
+    <text class="l" style="animation-delay:360ms" x="10" y="75" xml:space="preserve">/ /_/ / ___ |/ /| |/ /___/ /___/ __/ / _, _/</text>
+    <text class="l" style="animation-delay:480ms" x="10" y="92" xml:space="preserve">\____/_/  |_/_/ |_/_____/_____/_/   /_/ |_|</text>
+  </g>
+</svg>
