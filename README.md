@@ -10,7 +10,7 @@
 
 I'm **Jakob Werner** (`jakeefr` / [`@jxkedevs`](https://x.com/jxkedevs)), a freelance web and AI
 developer and the founder of **[Werner's Works](https://wernersworks.dev)**, based in the
-Oklahoma City area. I hold a B.S. in Cyber Security & Forensics and build production web
+Oklahoma area. I hold a B.S. in Cyber Security & Forensics and build production web
 applications, autonomous AI agent systems, and native iOS apps for clients end to end.
 
 ## What I Do
